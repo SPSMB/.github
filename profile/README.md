@@ -33,6 +33,7 @@
 
 ###### Třeťák
 - [Úvod do REST API v Node.JS](https://github.com/honziktillu/uvod-do-rest-api)
+- [Základní práce s FETCH API](https://github.com/honziktillu/crud-fetch-rest-api)
 
 #### Užitečné odkazy
 - [Naše škola](https://www.spsmb.cz/)
