@@ -13,7 +13,7 @@
 
 ###### Čtvrťák
 - [Jan Till](https://github.com/honziktillu) 
-- [Tomáš Zimmerhakl]() 
+- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) 
 - [Martin Štěpán]() 
 
 ##### Webovky
