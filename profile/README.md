@@ -41,7 +41,7 @@
 - Školní projekty - TBD
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 - [VSC](https://code.visualstudio.com/)
-- [:)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+- [:)](http://tillix.eu/)
 
 #### Kontakty
 - Jan Till - till@spsmb.cz - [Instagram](https://www.instagram.com/prostehonzatillu/) - Discord `forsenpls1#4247`
