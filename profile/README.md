@@ -35,6 +35,7 @@
 - [Úvod do REST API v Node.JS](https://github.com/honziktillu/uvod-do-rest-api)
 - [Základní práce s FETCH API](https://github.com/honziktillu/crud-fetch-rest-api)
 - [Práce s mongodb a mongoose](https://github.com/honziktillu/prace-s-mongodb-a-mongoose)
+- [Nahrání souborů na server přes multer](https://github.com/honziktillu/nahravani-souboru-na-server-pres-multer)
 
 #### Užitečné odkazy
 - [Naše škola](https://www.spsmb.cz/)
