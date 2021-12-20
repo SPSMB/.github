@@ -13,7 +13,7 @@
 
 ###### Čtvrťák
 - [Jan Till](https://github.com/honziktillu) 
-- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) 
+- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [C++ 4. ročník 2021-22](https://github.com/SPSMB/4r_2021_2022_IT1)
 - [Martin Štěpán]() 
 
 ##### Webovky
