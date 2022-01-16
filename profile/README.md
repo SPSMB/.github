@@ -37,6 +37,7 @@
 - [Práce s mongodb a mongoose](https://github.com/honziktillu/prace-s-mongodb-a-mongoose)
 - [Nahrání souborů na server přes multer](https://github.com/honziktillu/nahravani-souboru-na-server-pres-multer)
 - [Práce se socket.io](https://github.com/honziktillu/socket-io-chat-aplikace)
+- [Tokeny](https://github.com/honziktillu/nodejs-tokeny)
 
 #### Užitečné odkazy
 - [Naše škola](https://www.spsmb.cz/)
