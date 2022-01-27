@@ -19,6 +19,10 @@
 ##### Webovky
 - [Jan Till](https://github.com/honziktillu)
 ###### Druhák
+##### 2021/2022
+- [Chicken hunter](https://github.com/honziktillu/Fruhauf-Hunter)
+
+##### 2020/2021
 - [HTML/CSS/JS Cheatsheet](https://github.com/honziktillu/HTML-CSS-JS-CZ-SK-Cheatsheet)
 - [Cookie clicker](https://github.com/honziktillu/basic-cookieclicker)
 - [BMI](https://github.com/honziktillu/bmi)
