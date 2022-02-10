@@ -9,7 +9,7 @@
 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2021](https://github.com/LukasMazl/SPSMB-PRO-2021)
 - [Pavel Štemberk](https://github.com/gitofson) - [3Ai_ANJ2](https://github.com/gitofson/spsmb_3ai_anj2), [3Bi_ANJ2](https://github.com/SPSMB/pro-3bi-anj2)
-- [Jan Till](https://github.com/honziktillu) - [Převod soustav](https://github.com/honziktillu/prevod-soustav), [Základ do RPGčka](https://github.com/honziktillu/rpg-oop-zaklad), [RPG Arena](https://github.com/honziktillu/rpg-arena)
+- [Jan Till](https://github.com/honziktillu) - [Převod soustav](https://github.com/honziktillu/prevod-soustav), [Základ do RPGčka](https://github.com/honziktillu/rpg-oop-zaklad), [RPG Arena](https://github.com/honziktillu/rpg-arena), [JavaFX Canvas](https://github.com/honziktillu/javafx-gradle-entities)
 
 ###### Čtvrťák
 - [Jan Till](https://github.com/honziktillu) 
