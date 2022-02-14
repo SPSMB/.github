@@ -53,7 +53,7 @@
 - [:)](http://tillix.eu/)
 
 #### Kontakty
-- Jan Till - till@spsmb.cz - [Instagram](https://www.instagram.com/prostehonzatillu/) - Discord `forsenpls1#4247`
+- Jan Till - till@spsmb.cz - [Instagram](https://www.instagram.com/prostehonzatillu/) - Discord `honziktillu#4247`
 - Lukáš Mázl - mazl@spsmb.cz
 - Pavel Štemberk - stemberk@spsmb.cz
 - Martin Štěpán - stepan@spsmb.cz
