@@ -78,7 +78,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 | Učitel            | Email                 | Instagram                                                          | Discord                   | Předměty                   |
 | ----------------- | --------------------- | ------------------------------------------------------------------ | ------------------------- | ----------------------- |
-| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        | `PRO`, `PRA`, `WAP`, `WAR`
+| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        | `PRO`, `PRA`, `WAP`, `WAR`, `MOA`
 | [Lukáš Mázl](https://github.com/LukasMazl)        | mazl@spsmb.cz         |                                                                    |                           | `PRO`, `PRA`
 | [Pavel Štemberk](https://github.com/gitofson)   | stemberk@spsmb.cz     |                                                                    |                           | `PRO`, `PRA`, `PYT`
 | [Tomáš Zimmerhakl](https://github.com/zimmerhakl)  | zimmerhakl@spsmb.cz   |                                                                    |                           | `PRO`, `PRA`
