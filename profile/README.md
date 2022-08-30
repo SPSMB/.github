@@ -17,7 +17,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 ## 📚 Předměty
 
-### 💻 Programování Java
+### 💻 Programování Java (PRO)
 
 #### Třeťák
 
@@ -31,13 +31,13 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Pavel Štemberk](https://github.com/gitofson)
 - [Jan Till](https://github.com/honziktillu)
 
-### 🐍 Programování Python
+### 🐍 Programování Python (PYT)
 - [Pavel Štemberk](https://github.com/gitofson)
 
-### 📱 Mobilní aplikace
+### 📱 Mobilní aplikace (MOA)
 - [Jan Till](https://github.com/honziktillu)
 
-### 🌐 Webovky
+### 🌐 Webovky (WAP/WAR)
 [Jan Till](https://github.com/honziktillu)
 <details>
 <summary>Druhák</summary>
