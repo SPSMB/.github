@@ -76,13 +76,13 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 ## 🧑‍🏫 Kontakty
 
-| Učitel            | Email                 | Instagram                                                          | Discord                   |
-| ----------------- | --------------------- | ------------------------------------------------------------------ | ------------------------- |
-| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        |
-| [Lukáš Mázl](https://github.com/LukasMazl)        | mazl@spsmb.cz         |                                                                    |                           |
-| [Pavel Štemberk](https://github.com/gitofson)   | stemberk@spsmb.cz     |                                                                    |                           |
-| [Tomáš Zimmerhakl](https://github.com/zimmerhakl)  | zimmerhakl@spsmb.cz   |                                                                    |                           |
-| [Jan Urban](https://github.com/frafticekcz)         | urban@spsmb.cz        |                                                                    | `frafticekcz#3974`        |
+| Učitel            | Email                 | Instagram                                                          | Discord                   | Předměty                   |
+| ----------------- | --------------------- | ------------------------------------------------------------------ | ------------------------- | ----------------------- |
+| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        | `PRO`, `PRA`, `WAP`, `WAR`
+| [Lukáš Mázl](https://github.com/LukasMazl)        | mazl@spsmb.cz         |                                                                    |                           | `PRO`, `PRA`
+| [Pavel Štemberk](https://github.com/gitofson)   | stemberk@spsmb.cz     |                                                                    |                           | `PRO`, `PRA`, `PYT`
+| [Tomáš Zimmerhakl](https://github.com/zimmerhakl)  | zimmerhakl@spsmb.cz   |                                                                    |                           | `PRO`, `PRA`
+| [Jan Urban](https://github.com/frafticekcz)         | urban@spsmb.cz        |                                                                    | `frafticekcz#3974`        | `PRO`, `PRA`, `DBA`
 
 
 
