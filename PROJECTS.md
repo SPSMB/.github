@@ -17,9 +17,17 @@
 | [Adam Kišš](https://github.com/CrimsonBaron)       | Lightweight IDE     | [Repo](https://github.com/CrimsonBaron/rat-ide) | TBD |
 
 ## Maturitní práce
-| Žák               | Název            | Repozitář                                       | Ukázka   |
-| ----------------- | ---------------- | ----------------------------------------------- | -------- |
-| Tomáš Kubín       | TBD | TBD | TBD |
-| Jiří Tomášek      | TBD | TBD | TBD |
-| Jiří Žák          | TBD | TBD | TBD |
-| Kamil Kohoutek    | TBD | TBD | TBD |
+| Žák                 | Název                  | Repozitář                                       | Ukázka   |
+| -----------------   | ---------------------  | ----------------------------------------------- | -------- |
+| Tomáš Kubín         | Hororová hra           | TBD | TBD |
+| Jiří Tomášek        | Alzák                  | TBD | TBD |
+| Jiří Žák            | Dětská hra             | TBD | TBD |
+| Lukáš Hruška        | Kvadrokoptéra          | TBD | TBD |
+| Ondřej Král         | Otesánek               | TBD | TBD |
+| Václav Hladík       | LED Cube               | TBD | TBD |
+| Pavel Paulus        | Animace pro Škoda Auto | TBD | TBD |
+| Jan Svárovský       | Smarthome              | TBD | TBD |
+| Jan Charamza        | GTA 2D                 | TBD | TBD |
+| Kamil Kohoutek      | Warcraft               | TBD | TBD |
+| Matouš Rejzl        | TBD                    | TBD | TBD |
+| Ladislav Brzobohatý | TBD                    | TBD | TBD |
