@@ -1,30 +1,30 @@
 # 💾 Školní projekty
 ## Školní práce
-| Žák                    | Repozitář                                                           |
-| ---------------------- | ------------------------------------------------------------------- |
-| Jan Poláček            | TBD |
+| Žák                    | Název                   | Repozitář                                 | Ukázka    |
+| ---------------------- | ----------------------- | ----------------------------------------- | --------- |
+| [Jan Poláček]([https://cookieclicker98.github.io](https://github.com/neostetic))           | Cookie Clicker 98 | TBD | [Spustit](https://cookieclicker98.github.io)
 
 ## Ročníkové práce
-| Žák                    | Repozitář                                                           |
-| ---------------------- | ------------------------------------------------------------------- |
-| Jakub Kraus            | TBD |
-| Štěpánka Klimešová     | TBD |
-| Radek Pelikán          | TBD |
-| Ondřej Žárský          | TBD |
-| Jan Poláček            | TBD |
-| Ondřej Merhaut         | TBD |
-| Zdeněk Stanke          | TBD |
-| Pavel Šípek            | TBD |
-| Erik Reindl            | TBD |
-| Jan Mlejnecký          | TBD |
-| Radek Zikmund          | TBD |
-| Petr Šubrt             | TBD |
-| Adam Kišš              | TBD |
+| Žák                    | Název                   | Repozitář                                  | Ukázka   |
+| ---------------------- | ----------------------- | ------------------------------------------ | -------- |
+| Jakub Kraus            | TBD | TBD | |
+| Štěpánka Klimešová     | TBD | TBD | |
+| Radek Pelikán          | TBD | TBD | |
+| Ondřej Žárský          | TBD | TBD | |
+| Jan Poláček            | TBD | TBD | |
+| Ondřej Merhaut         | TBD | TBD | |
+| Zdeněk Stanke          | TBD | TBD | |
+| Pavel Šípek            | TBD | TBD | |
+| Erik Reindl            | TBD | TBD | |
+| Jan Mlejnecký          | TBD | TBD | |
+| Radek Zikmund          | TBD | TBD | |
+| Petr Šubrt             | TBD | TBD | |
+| Adam Kišš              | TBD | TBD | |
 
 ## Maturitní práce
-| Žák               | Repozitář                                                          |
-| ----------------- | ------------------------------------------------------------------ |
-| Tomáš Kubín       | TBD |
-| Jiří Tomášek      | TBD |
-| Jiří Žák          | TBD |
-| Kamil Kohoutek    | TBD |
+| Žák               | Název            | Repozitář                                       | Ukázka   |
+| ----------------- | ---------------- | ----------------------------------------------- | -------- |
+| Tomáš Kubín       | TBD | TBD | |
+| Jiří Tomášek      | TBD | TBD | |
+| Jiří Žák          | TBD | TBD | |
+| Kamil Kohoutek    | TBD | TBD | |
