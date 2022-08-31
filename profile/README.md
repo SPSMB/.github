@@ -79,7 +79,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 <img src="https://i.pinimg.com/originals/13/8d/52/138d52a8f429510e2c16bd67990dae3c.jpg" width="22" height="22">  Školní discord - TBD
 
-💾  Školní projekty - TBD
+💾  [Školní projekty](https://github.com/SPSMB/.github/blob/main/PROJECTS.md)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="22" height="22">  [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 
