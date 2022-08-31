@@ -2,7 +2,7 @@
 ## Školní práce
 | Žák                    | Název                   | Repozitář                                 | Ukázka    |
 | ---------------------- | ----------------------- | ----------------------------------------- | --------- |
-| [Jan Poláček]([https://cookieclicker98.github.io](https://github.com/neostetic))           | Cookie Clicker 98 | TBD | [Spustit](https://cookieclicker98.github.io)
+| [Jan Poláček]([https://cookieclicker98.github.io](https://github.com/neostetic))           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io)
 
 ## Ročníkové práce
 | Žák                    | Název                   | Repozitář                                  | Ukázka   |
