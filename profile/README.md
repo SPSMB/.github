@@ -1,6 +1,8 @@
 # Hello there 👋
 ![](https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif)
 
+<br>
+
 ## 🚀 O škole
 <details>
 <summary>
@@ -13,7 +15,7 @@ V současné době škola připravuje mladé odborníky jak pro povolání na po
 Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto Škoda a.s. Mladá Boleslav. Škola na základě smlouvy vysílá studenty do tohoto podniku na praxe, využívá i řady pomůcek a zařízení firmy při výuce odborných předmětů, laboratoří apod. Velká část absolventů nalezla v této firmě celoživotní uplatnění. Dále škola úzce spolupracuje s firmami AUFEER Design, ŠKO-ENERGO, BILSING AUTOMATION,  VYRTYCH, AUTO KELLY, BOSCH, METRONET, AUTOZÍTKA, FAURECIA, T-MOBILE a dalšími.
 
 </details>
-
+<br>
 
 ## 📚 Předměty
 
@@ -84,6 +86,8 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="22" height="22"> [VSC](https://code.visualstudio.com/)
 
 😊 [:)](http://tillix.eu/)
+
+<br>
 
 ## 🧑‍🏫 Kontakty
 
