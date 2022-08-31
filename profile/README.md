@@ -34,10 +34,10 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Jan Till](https://github.com/honziktillu)
 
 ### 🐍 Programování Python (PYT)
-- [Pavel Štemberk](https://github.com/gitofson)
+[Pavel Štemberk](https://github.com/gitofson)
 
 ### 📱 Mobilní aplikace (MOA)
-- [Jan Till](https://github.com/honziktillu)
+[Jan Till](https://github.com/honziktillu)
 
 ### 🌐 Webovky (WAP/WAR)
 [Jan Till](https://github.com/honziktillu)
