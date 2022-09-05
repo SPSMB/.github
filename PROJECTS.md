@@ -10,7 +10,7 @@
 | Jakub Kraus            | Godot Mario | TBD | TBD |
 | Štěpánka Klimešová     | World's Hardest Game | TBD | TBD |
 | [Ondřej Žárský](https://github.com/KaktusVoorhees) | Jump King           | [Repo](https://github.com/KaktusVoorhees/Rocnikova-prace) | TBD |
-| [Jan Poláček](https://github.com/neostetic)        | Překladač           | TBD | [Spustit](https://stripe-thread-feet.glitch.me) |
+| [Jan Poláček](https://github.com/neostetic)        | Překladač           | [Repo](https://github.com/neostetic/Translator-Renewed) | [Spustit](https://stripe-thread-feet.glitch.me) |
 | [Ondřej Merhaut](https://github.com/M3rhy123)      | ATM                 | [Repo](https://github.com/M3rhy123/rocnikovka) | [Spustit](https://rocnikovka.vercel.app) |
 | [Pavel Šípek](https://github.com/G0rd82)           | Kalendář            | [Repo](https://github.com/G0rd82/RocnikovaPrace) | TBD |
 | [Erik Reindl](https://github.com/KRBNJSF)          | Flappy Bird Android | [Repo](https://github.com/KRBNJSF/FlappyBird_Java) | TBD |
