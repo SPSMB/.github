@@ -24,7 +24,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 #### Třeťák
 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2021](https://github.com/LukasMazl/SPSMB-PRO-2021)
-- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [C++ 4. ročník 2021-22](https://github.com/SPSMB/4r_2021_2022_IT1)
+- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [PRO_3r_2022_2023_IT1](https://github.com/SPSMB/PRO_3r_2022_2023_IT1)
 - [Jan Till](https://github.com/honziktillu)
 - [Jan Urban](https://github.com/frafticekcz)
 
@@ -32,6 +32,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 #### Čtvrťák
 - [Pavel Štemberk](https://github.com/gitofson)
 - [Jan Till](https://github.com/honziktillu)
+- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [C++ 4. ročník 2021-22](https://github.com/SPSMB/4r_2021_2022_IT1)
 
 ### 🐍 Programování Python (PYT)
 [Pavel Štemberk](https://github.com/gitofson)
