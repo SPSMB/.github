@@ -25,8 +25,9 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2022](https://github.com/LukasMazl/SPSMB-PRO-2022)
 - [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [PRO_3r_2022_2023_IT1](https://github.com/SPSMB/PRO_3r_2022_2023_IT1)
-- [Jan Till](https://github.com/honziktillu)
 - [Jan Urban](https://github.com/frafticekcz)
+- [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>[SeqFinder](https://github.com/honziktillu/seqfinder)</details>
+
 
 
 #### Čtvrťák
