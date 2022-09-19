@@ -32,7 +32,9 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 #### Čtvrťák
 - [Pavel Štemberk](https://github.com/gitofson)
-- [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>[Návrhové vzory](https://github.com/honziktillu/navrhove-vzory)</details>
+- [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
+  - [JavaFX2DGameDev](https://github.com/honziktillu/javafx2dgamedev)
+  - [Návrhové vzory](https://github.com/honziktillu/navrhove-vzory)</details>
 - [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [C++ 4. ročník 2021-22](https://github.com/SPSMB/4r_2021_2022_IT1)
 
 ### 🐍 Programování Python (PYT)
