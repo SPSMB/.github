@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/SPSMB/.github/main/profile/banner.png)
+![](https://raw.githubusercontent.com/SPSMB/.github/main/profile/bannerT.png)
 
 <br>
 
