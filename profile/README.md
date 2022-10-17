@@ -20,6 +20,15 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 ### 💻 Programování Java (PRO)
 
+#### Druhák
+
+- [Jan Urban](https://github.com/frafticekcz) <details><summary>Ročníky</summary>
+  - [2.Ai ANJ1](https://github.com/SPSMB/PRA_2A_ANJ1_22_23)
+  - [2.Ai ANJ2](https://github.com/SPSMB/PRA_2A_ANJ2_22_23)
+  - [2.Bi ANJ1](https://github.com/SPSMB/PRO_2B_ANJ1_22_23)
+  - [2.Bi ANJ2](https://github.com/SPSMB/PRO_2B_ANJ2_22_23)</details>
+
+
 #### Třeťák
 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2022](https://github.com/LukasMazl/SPSMB-PRO-2022)
