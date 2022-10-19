@@ -61,6 +61,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 - [HTML/CSS/JS Cheatsheet](https://github.com/honziktillu/HTML-CSS-JS-CZ-SK-Cheatsheet)
 - [Sussy clicker](https://github.com/honziktillu/sussyclicker)
+- [Dataset](https://github.com/honziktillu/dataset)
 - [BMI](https://github.com/honziktillu/bmi)
 - [Hádej barvu](https://github.com/honziktillu/hadejbarvu)
 - [herGame](https://github.com/honziktillu/herGame)
