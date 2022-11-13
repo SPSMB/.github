@@ -80,6 +80,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Úvod do REST API v Node.JS](https://github.com/honziktillu/uvod-do-rest-api)
 - [Základní práce s FETCH API](https://github.com/honziktillu/crud-fetch-rest-api)
 - [Práce s mongodb a mongoose](https://github.com/honziktillu/prace-s-mongodb-a-mongoose)
+- [Komunikace mezi klientem a serverem](https://github.com/honziktillu/restapp)
 - [Nahrání souborů na server přes multer](https://github.com/honziktillu/nahravani-souboru-na-server-pres-multer)
 - [Práce se socket.io](https://github.com/honziktillu/socket-io-chat-aplikace)
 - [Tokeny](https://github.com/honziktillu/nodejs-tokeny)
