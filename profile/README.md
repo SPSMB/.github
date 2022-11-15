@@ -89,6 +89,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 <details>
 <summary>Čtvrťák</summary>
 
+- [Electron](https://www.electronjs.org/)
 </details>
 <br>
 
