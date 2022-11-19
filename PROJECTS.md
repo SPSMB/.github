@@ -3,6 +3,7 @@
 | Žák                    | Název                   | Repozitář                                 | Ukázka    |
 | ---------------------- | ----------------------- | ----------------------------------------- | --------- |
 | [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io)
+| [Pavel Mík](https://github.com/PabloMikes)           | Koral's Quest | [Repo](https://github.com/PabloMikes/Projekt-na-grafice) | [Spustit](https://pablomikes.github.io/Projekt-na-grafice/)
 
 ## Ročníkové práce
 | Žák                    | Název                   | Repozitář                                  | Ukázka   |
