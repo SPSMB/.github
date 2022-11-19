@@ -24,4 +24,4 @@
 | Jiří Žák            | Dětská hra             | TBD | TBD |
 | Kamil Kohoutek      | Warcraft               | TBD | TBD |
 | Matouš Rejzl        | The Binding of Isaac   | TBD | TBD |
-| Ladislav Brzobohatý | TBD                    | TBD | TBD |
+| Ladislav Brzobohatý | Konstrukce dálkově ovládaného modelu a 3D tisk | TBD | TBD |
