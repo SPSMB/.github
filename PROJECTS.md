@@ -22,12 +22,6 @@
 | Tomáš Kubín         | Hororová hra           | TBD | TBD |
 | Jiří Tomášek        | Alzák                  | TBD | TBD |
 | Jiří Žák            | Dětská hra             | TBD | TBD |
-| Lukáš Hruška        | Kvadrokoptéra          | TBD | TBD |
-| Ondřej Král         | Otesánek               | TBD | TBD |
-| Václav Hladík       | LED Cube               | TBD | TBD |
-| Pavel Paulus        | Animace pro Škoda Auto | TBD | TBD |
-| Jan Svárovský       | Smarthome              | TBD | TBD |
-| Jan Charamza        | GTA 2D                 | TBD | TBD |
 | Kamil Kohoutek      | Warcraft               | TBD | TBD |
-| Matouš Rejzl        | TBD                    | TBD | TBD |
+| Matouš Rejzl        | The Binding of Isaac   | TBD | TBD |
 | Ladislav Brzobohatý | TBD                    | TBD | TBD |
