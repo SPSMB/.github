@@ -18,7 +18,7 @@
 | [Adam Kišš](https://github.com/CrimsonBaron)       | Lightweight IDE     | [Repo](https://github.com/CrimsonBaron/rat-ide) | TBD | |
 
 ## Maturitní práce
-| Žák                 | Název                  | Repozitář                                       | Ukázka   |
+| Žák                 | Název                  | Repozitář                                       | Video   |
 | -----------------   | ---------------------  | ----------------------------------------------- | -------- |
 | Tomáš Kubín         | Hororová hra           | TBD | TBD |
 | Jiří Tomášek        | Alzák                  | TBD | TBD |
