@@ -24,4 +24,4 @@
 | Jiří Tomášek        | Alzák                  | TBD | TBD |
 | Jiří Žák            | Dětská hra             | TBD | TBD |
 | Kamil Kohoutek      | Warcraft               | TBD | TBD |
-| Matouš Rejzl        | The Binding of Isaac - Game Maker| [Repo](https://github.com/SPSMB/matous-rejzl-maturitni-prace)  | TBD |
+| Matouš Rejzl        | The Binding of Isaac - Game Maker| [Repo](https://github.com/SPSMB/matous-rejzl-maturitni-prace)  | [Video](https://www.youtube.com/watch?v=c4ahlf1fYMM) |
