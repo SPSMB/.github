@@ -1,9 +1,9 @@
 # 💾 Školní projekty
 ## Školní práce
-| Žák                    | Název                   | Repozitář                                 | Ukázka    |
-| ---------------------- | ----------------------- | ----------------------------------------- | --------- |
-| [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io)
-| [Pavel Mík](https://github.com/PabloMikes)           | Koral's Quest | [Repo](https://github.com/PabloMikes/Projekt-na-grafice) | [Spustit](https://pablomikes.github.io/Projekt-na-grafice/)
+| Žák                    | Název                   | Repozitář                                 | Ukázka    | Video |
+| ---------------------- | ----------------------- | ----------------------------------------- | --------- | ----- |
+| [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io) | |
+| [Pavel Mík](https://github.com/PabloMikes)           | Koral's Quest | [Repo](https://github.com/PabloMikes/Projekt-na-grafice) | [Spustit](https://pablomikes.github.io/Projekt-na-grafice/) | [Video](https://www.youtube.com/watch?v=Ng69d_DNn4M) |
 
 ## Ročníkové práce
 | Žák                    | Název                   | Repozitář                                  | Ukázka   | Video |
@@ -25,4 +25,3 @@
 | Jiří Žák            | Dětská hra             | TBD | TBD |
 | Kamil Kohoutek      | Warcraft               | TBD | TBD |
 | Matouš Rejzl        | The Binding of Isaac - Game Maker| [Repo](https://github.com/SPSMB/matous-rejzl-maturitni-prace)  | TBD |
-| Ladislav Brzobohatý | Konstrukce dálkově ovládaného modelu a 3D tisk | TBD | TBD |
