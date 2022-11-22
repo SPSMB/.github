@@ -106,7 +106,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" width="22" height="22"> [VSC](https://code.visualstudio.com/)
 
-😊 [:)](http://tillix.eu/)
+😊 [:)](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 
 <br>
 
