@@ -95,6 +95,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 ## 🔗 Užitečné odkazy
 🎒 [Naše škola](https://www.spsmb.cz/)
+
 🎥 [YouTube](https://www.youtube.com/@sps-mb)
 
 <img src="https://i.pinimg.com/originals/13/8d/52/138d52a8f429510e2c16bd67990dae3c.jpg" width="22" height="22">  Školní discord - TBD
