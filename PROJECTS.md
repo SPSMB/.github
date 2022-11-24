@@ -22,5 +22,5 @@
 | -----------------   | ---------------------  | ----------------------------------------------- | -------- |
 | Tomáš Kubín         | Hororová hra           | TBD | TBD |
 | Jiří Tomášek        | Alzák                  | TBD | TBD |
-| Kamil Kohoutek      | Warcraft               | TBD | TBD |
+| Kamil Kohoutek      | Warcraft               |  [Repo](https://github.com/SPSMB/warcraftcpp) | [Video](https://www.youtube.com/watch?v=bHnuo8c0PuE)  |
 | Matouš Rejzl        | The Binding of Isaac - Game Maker| [Repo](https://github.com/SPSMB/matous-rejzl-maturitni-prace)  | [Video](https://www.youtube.com/watch?v=c4ahlf1fYMM) |
