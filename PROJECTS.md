@@ -2,7 +2,7 @@
 ## Školní práce
 | Žák                    | Název                   | Repozitář                                 | Hrát    | Video |
 | ---------------------- | ----------------------- | ----------------------------------------- | --------- | ----- |
-| [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io) | |
+| [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io) | [Video](https://www.youtube.com/watch?v=OVK3TyKr51M) |
 | [Pavel Mík](https://github.com/PabloMikes)           | Koral's Quest | [Repo](https://github.com/PabloMikes/Projekt-na-grafice) | [Spustit](https://pablomikes.github.io/Projekt-na-grafice/) | [Video](https://www.youtube.com/watch?v=Ng69d_DNn4M) |
 
 ## Ročníkové práce
