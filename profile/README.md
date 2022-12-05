@@ -54,6 +54,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 ### 📱 Mobilní aplikace (MOA)
 [Jan Till](https://github.com/honziktillu)
+- [React Native](https://reactnative.dev/)
 
 ### 🌐 Webovky (WAP/WAR)
 [Jan Till](https://github.com/honziktillu)
