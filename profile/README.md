@@ -91,6 +91,8 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 <summary>Čtvrťák</summary>
 
 - [Electron](https://www.electronjs.org/)
+- [React Native](https://reactnative.dev/)
+- [JSDoc](https://jsdoc.app/)
 </details>
 <br>
 
