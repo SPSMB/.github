@@ -94,6 +94,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Electron](https://www.electronjs.org/)
 - [React Native](https://reactnative.dev/)
 - [JSDoc](https://jsdoc.app/)
+- [GraphQL](https://github.com/honziktillu/graphql)
 </details>
 <br>
 
