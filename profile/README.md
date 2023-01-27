@@ -36,6 +36,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Jan Urban](https://github.com/frafticekcz) - [PRO_3B_IT4_22_23](https://github.com/SPSMB/PRO_3B_IT4_22_23)
 - [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
   - [SeqFinder](https://github.com/honziktillu/seqfinder)
+  - [Kolekce](https://github.com/honziktillu/Procvicovani_kolekce)
   - [Arena](https://github.com/honziktillu/javaplayerarena)</details>
 
 
