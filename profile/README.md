@@ -63,6 +63,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 <summary>Druhák</summary>
 
 - [HTML/CSS/JS Cheatsheet](https://github.com/honziktillu/HTML-CSS-JS-CZ-SK-Cheatsheet)
+- [JSON ukázka](https://github.com/honziktillu/json-example)
 - [Sussy clicker](https://github.com/honziktillu/sussyclicker)
 - [Dataset](https://github.com/honziktillu/dataset)
 - [Images](https://github.com/honziktillu/images)
