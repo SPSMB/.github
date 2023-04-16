@@ -4,6 +4,7 @@
 | ---------------------- | ----------------------- | ----------------------------------------- | --------- | ----- |
 | [Jan Poláček](https://github.com/neostetic)           | Cookie Clicker 98 | [Repo](https://github.com/cookieclicker98/cookieclicker98.github.io) | [Spustit](https://cookieclicker98.github.io) | [Video](https://www.youtube.com/watch?v=OVK3TyKr51M) |
 | [Pavel Mík](https://github.com/PabloMikes)           | Koral's Quest | [Repo](https://github.com/PabloMikes/Projekt-na-grafice) | [Spustit](https://pablomikes.github.io/Projekt-na-grafice/) | [Video](https://www.youtube.com/watch?v=Ng69d_DNn4M) |
+| [Kryštof Martinec](https://github.com/KreloX)           | Rizzard | [Repo](https://github.com/KreloX/Rizzard) | [Spustit](https://krelox.github.io/Rizzard/) | [Video](https://www.youtube.com/watch?v=nmZ7He2eIPQ) |
 
 ## Ročníkové práce
 | Žák                    | Název                   | Repozitář                                  | Hrát   | Video |
@@ -20,7 +21,7 @@
 ## Maturitní práce
 | Žák                 | Název                  | Repozitář                                       | Video   |
 | -----------------   | ---------------------  | ----------------------------------------------- | -------- |
-| Tomáš Kubín         | Hororová hra           | TBD | TBD |
+| Jakub Kraus         | RPG GAME               | TBD | [Video](https://www.youtube.com/watch?v=LIHY1_ldrYg) |
 | Jiří Tomášek        | Alzák                  | [Repo](https://github.com/SPSMB/godot-alzak) | [Video](https://www.youtube.com/watch?v=uYIiZxThujE)  |
 | Kamil Kohoutek      | Warcraft               |  [Repo](https://github.com/SPSMB/warcraftcpp) | [Video](https://www.youtube.com/watch?v=bHnuo8c0PuE)  |
 | Matouš Rejzl        | The Binding of Isaac - Game Maker| [Repo](https://github.com/SPSMB/matous-rejzl-maturitni-prace)  | [Video](https://www.youtube.com/watch?v=c4ahlf1fYMM) |
