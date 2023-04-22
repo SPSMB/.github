@@ -11,7 +11,7 @@
 ## Ročníkové práce
 | Žák                    | Název                   | Repozitář                                  | Hrát   | Video |
 | ---------------------- | ----------------------- | ------------------------------------------ | -------- | ----- |
-| [Jinřich Šuba](https://github.com/BushakCZ)            | Průmka fighter | [Repo](https://github.com/BushakCZ/RocnikovaPrace) |  |  [Video](https://www.youtube.com/watch?v=1zax-UhQjyE)  |
+| [Jindřich Šuba](https://github.com/BushakCZ)            | Průmka fighter | [Repo](https://github.com/BushakCZ/RocnikovaPrace) |  |  [Video](https://www.youtube.com/watch?v=1zax-UhQjyE)  |
 | [Jakub Kraus](https://github.com/JakubKraus2)            | Godot Mario | [Repo](https://github.com/JakubKraus2/godot-mario) |  |  [Video](https://www.youtube.com/watch?v=S5wkSzN31zM)  |
 | [Štěpánka Klimešová](https://github.com/stepankaKlimesova)     | World's Hardest Game | [Repo](https://github.com/stepankaKlimesova/WHG) |  | [Video](https://www.youtube.com/watch?v=WOm6KIiGT4M) |
 | [Ondřej Žárský](https://github.com/KaktusVoorhees) | Jump King           | [Repo](https://github.com/KaktusVoorhees/Rocnikova-prace) | [Spustit](https://cooked-sprout-answer.glitch.me/JumpKing/) | [Video](https://www.youtube.com/watch?v=jFFxzXrelxw) |
