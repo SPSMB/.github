@@ -33,7 +33,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2022](https://github.com/LukasMazl/SPSMB-PRO-2022)
 - [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [PRO_3r_2022_2023_IT1](https://github.com/SPSMB/PRO_3r_2022_2023_IT1)
-- [Jan Urban](https://github.com/frafticekcz) - [PRO_3B_IT4_22_23](https://github.com/SPSMB/PRO_3B_IT4_22_23)
+- [Jan Urban](https://github.com/frafticekcz) - [PRO_3B_ANJ2_23_24](https://github.com/SPSMB/PRO_3B_ANJ2_2023_2024)
 - [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
   - [SeqFinder](https://github.com/honziktillu/seqfinder)
   - [Kolekce](https://github.com/honziktillu/Procvicovani_kolekce)
@@ -41,6 +41,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 
 #### Čtvrťák
+- [Jan Urban](https://github.com/frafticekcz) - [PRO_4AB_IT3_23_24](https://github.com/SPSMB/PRO_3B_IT4_22_23)
 - [Pavel Štemberk](https://github.com/gitofson)
 - [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
   - [JavaFX2DGameDev](https://github.com/honziktillu/javafx2dgamedev)
