@@ -78,6 +78,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Vtipy přes JSON](https://github.com/honziktillu/js-json)
 - [Dino hra](https://github.com/honziktillu/js-pagman-dino-game)
 - [Osu](https://honziktillu.github.io/osu/)
+- [DVD Screen saver](https://github.com/honziktillu/dvdscreensaver)
 </details>
 
 <details>
