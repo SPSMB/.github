@@ -49,7 +49,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
   - [Java HTTP Server](https://github.com/honziktillu/httpserver-javaio)
   - [JDBC](https://github.com/honziktillu/JDBCCrudExample)
   - [Timeline](https://github.com/honziktillu/Timeline)</details>
-- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [C++ 4. ročník 2021-22](https://github.com/SPSMB/4r_2021_2022_IT1)
+- [Tomáš Zimmerhakl](https://github.com/zimmerhakl) [C++ 4. ročník 2023-24](https://github.com/SPSMB/PRO_4r_2023_2024_IT1)
 
 ### 🐍 Programování Python (PYT)
 [Pavel Štemberk](https://github.com/gitofson)
