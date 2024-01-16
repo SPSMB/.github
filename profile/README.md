@@ -44,7 +44,6 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 #### Čtvrťák
 - [Jan Urban](https://github.com/frafticekcz) - [PRO_4AB_IT3_23_24](https://github.com/SPSMB/PRO_3B_IT4_22_23)
-- [Pavel Štemberk](https://github.com/gitofson)
 - [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
   - [JavaFX2DGameDev](https://github.com/honziktillu/javafx2dgamedev)
   - [Návrhové vzory](https://github.com/honziktillu/navrhove-vzory)
@@ -52,9 +51,6 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
   - [JDBC](https://github.com/honziktillu/JDBCCrudExample)
   - [Timeline](https://github.com/honziktillu/Timeline)</details>
 - [Tomáš Zimmerhakl](https://github.com/zimmerhakl) [C++ 4. ročník 2023-24](https://github.com/SPSMB/PRO_4r_2023_2024_IT1)
-
-### 🐍 Programování Python (PYT)
-[Pavel Štemberk](https://github.com/gitofson)
 
 ### 📱 Mobilní aplikace (MOA)
 [Jan Till](https://github.com/honziktillu)
@@ -126,9 +122,8 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 
 | Učitel            | Email                 | Instagram                                                          | Discord                   | Předměty                   |
 | ----------------- | --------------------- | ------------------------------------------------------------------ | ------------------------- | ----------------------- |
-| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        | `PRO`, `PRA`, `WAP`, `WAR`, `MOA`
+| [Jan Till](https://github.com/honziktillu)        | till@spsmb.cz         | [@prostehonzatillu](https://www.instagram.com/prostehonzatillu/)   | `honziktillu#4247`        | `PRO`, `PRA`, `WAP`, `WAR`, `MOA`, `VR`
 | [Lukáš Mázl](https://github.com/LukasMazl)        | mazl@spsmb.cz         |                                                                    |                           | `PRO`, `PRA`
-| [Pavel Štemberk](https://github.com/gitofson)   | stemberk@spsmb.cz     |                                                                    |                           | `PRO`, `PRA`, `PYT`
 | [Tomáš Zimmerhakl](https://github.com/zimmerhakl)  | zimmerhakl@spsmb.cz   |                                                                    |                           | `PRO`, `PRA`
 | [Jan Urban](https://github.com/frafticekcz)         | urban@spsmb.cz        |                                                                    | `frafticekcz#3974`        | `PRO`, `PRA`, `DBA`
 
