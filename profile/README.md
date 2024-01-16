@@ -34,11 +34,13 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Lukáš Mázl](https://github.com/LukasMazl) - [SPSMB-PRO-2022](https://github.com/LukasMazl/SPSMB-PRO-2022)
 - [Tomáš Zimmerhakl](https://github.com/zimmerhakl) - [PRO_3r_2022_2023_IT1](https://github.com/SPSMB/PRO_3r_2022_2023_IT1)
 - [Jan Urban](https://github.com/frafticekcz) - [PRO_3B_ANJ2_23_24](https://github.com/SPSMB/PRO_3B_ANJ2_2023_2024)
-- [Jan Till](https://github.com/honziktillu) <details><summary>Projekty</summary>
+- [Jan Till](https://github.com/honziktillu) <details><summary>Java</summary>
   - [SeqFinder](https://github.com/honziktillu/seqfinder)
   - [Kolekce](https://github.com/honziktillu/Procvicovani_kolekce)
-  - [Arena](https://github.com/honziktillu/javaplayerarena)</details>
-
+  - [Arena](https://github.com/honziktillu/javaplayerarena)</details>    
+  - [Jan Till](https://github.com/honziktillu) <details><summary>TypeScript</summary>
+    - [TypeScript-Express-Sequelize](https://github.com/honziktillu/ts-express-sequelize-server)
+    </details>   
 
 #### Čtvrťák
 - [Jan Urban](https://github.com/frafticekcz) - [PRO_4AB_IT3_23_24](https://github.com/SPSMB/PRO_3B_IT4_22_23)
