@@ -89,7 +89,7 @@ Příprava studentů je tradičně spjata s výrobou automobilů ve firmě Auto 
 - [Nahrání souborů na server přes multer](https://github.com/honziktillu/nahravani-souboru-na-server-pres-multer)
 - [Práce se socket.io](https://github.com/honziktillu/socket-io-chat-aplikace)
 - [Tokeny](https://github.com/honziktillu/nodejs-tokeny)
-- [React-express-mongo-CRUD](https://github.com/honziktillu/react-school-app](https://github.com/honziktillu/react-crud-with-server)
+- [React-express-mongo-CRUD](https://github.com/honziktillu/react-crud-with-server)
 </details>
 
 <details>
